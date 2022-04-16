@@ -1,0 +1,30 @@
+.menu
+{
+    background-color: blueviolet;
+    height: 7%;
+    color: rgb(255, 255, 255);
+}
+.cuda
+{
+    padding-top:1px ;
+}
+.mini_menu
+{
+    color: white;
+    display: flex;
+    justify-content: end;
+    justify-content:space-around;
+    position: absolute;
+    top: 3%;
+    right: 10%;
+}
+a
+{
+    margin-left: 10%;
+    color: rgb(187, 181, 181);
+}
+a :hover
+{
+    background-color: black;
+    color: black;
+}
